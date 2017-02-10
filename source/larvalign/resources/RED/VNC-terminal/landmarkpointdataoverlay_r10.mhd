@@ -1,0 +1,15 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = True
+CompressedDataSize = 140203
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = 0 0 0
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 0.45664 0.45664 2
+ITK_InputFilterName = MetaImageIO
+DimSize = 993 1449 99
+ElementType = MET_UCHAR
+ElementDataFile = landmarkpointdataoverlay_r10.zraw

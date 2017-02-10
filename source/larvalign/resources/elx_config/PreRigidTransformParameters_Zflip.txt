@@ -1,0 +1,30 @@
+(Transform "EulerTransform")
+(NumberOfParameters 6)
+(TransformParameters 0 3.14159 0 0 0 0)
+(InitialTransformParametersFileName "NoInitialTransform")
+(HowToCombineTransforms "Add")
+(FixedImageDimension 3)
+(MovingImageDimension 3)
+(FixedInternalImagePixelType "float")
+(MovingInternalImagePixelType "float")
+(Size 993 1449 99)
+(Index 0 0 0)
+(Spacing 0.45664 0.45664 2)
+(Origin 0 0 0)
+(Direction 1.0000000000 0.0000000000 0.0000000000 0.0000000000 1.0000000000 0.0000000000 0.0000000000 0.0000000000 1.0000000000)
+(UseDirectionCosines "true")
+(CenterOfRotationPoint 224 326 79)
+(Resampler "DefaultResampler")
+(ResampleInterpolator FinalNearestNeighborInterpolator) 
+(DefaultPixelValue 0.000000)
+(ResultImageFormat "mhd")
+(ResultImagePixelType "short")
+(CompressResultImage "true")
+
+
+
+
+
+
+
+

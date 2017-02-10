@@ -1,0 +1,15 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = True
+CompressedDataSize = 212398
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = 0 0 0
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 1.8284 1.82782 8.25
+ITK_InputFilterName = MetaImageIO
+DimSize = 248 362 24
+ElementType = MET_UCHAR
+ElementDataFile = AtlasImgMedian25.zraw
